@@ -1,0 +1,440 @@
+@media screen and (max-width: 750px) {
+
+
+    .name a {
+        margin-left: 10px;
+    }
+
+    .unorder {
+        font-size: 15px;
+    }
+
+    .summry {
+        font-size: 14px;
+    }
+
+    .text-container {
+        max-height: 85vh;
+    }
+
+    .frame3 {
+        margin: 10px 0px;
+        display: grid;
+        grid-template-columns: auto;
+        grid-gap: 20px 30px;
+
+    }
+
+    .fram3-img {
+        width: 100%;
+        margin: auto;
+        height: unset;
+        grid-column: unset;
+        grid-row: unset;
+    }
+
+    .section1 {
+        margin-bottom: 2vh;
+    }
+
+    .quote1 {
+        font-size: 26px;
+    }
+
+    .section2 {
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+
+    .logo1,
+    .logo2,
+    .logo3 {
+        width: 180px;
+        margin: unset;
+    }
+
+    .logo1 img {
+        width: 76px;
+    }
+
+    .logo3 img {
+        width: 60px;
+
+    }
+
+    .logo2 img {
+        width: 84px;
+    }
+
+    .logo1 h3,
+    .logo2 h3,
+    .logo3 h3 {
+        font-size: 17px;
+    }
+
+    .logo1 p,
+    .logo2 p,
+    .logo3 p {
+        font-size: 13.5px;
+    }
+
+    .title {
+        font-size: 2.2rem;
+
+    }
+
+    .text {
+        box-shadow: unset;
+        width: 80vw;
+        padding: 0;
+    }
+
+    .frame2 {
+        min-height: 630px;
+    }
+
+    .container3 {
+        display: grid;
+        justify-content: center;
+    }
+
+    .blackbox {
+        height: 1020px;
+    }
+
+    .cinematic {
+        width: unset;
+    }
+
+    .fram3-about {
+        width: 300px;
+
+    }
+
+    .cinematic h2 {
+        width: 90%;
+        font-size: 35px;
+        text-align: center;
+        margin: 30px auto 0 auto;
+    }
+
+    .cinematic p {
+        font-size: 13px;
+        margin: 60px 0px;
+        width: 85vw;
+    }
+
+    .about-button {
+        left: unset;
+        margin-bottom: 22px;
+    }
+
+    .cinematic-image {
+        width: 100%;
+        margin: auto;
+
+    }
+
+    .fram3-heading {
+        font-size: 33px;
+        margin: 0;
+    }
+
+    .fram3-about h2 {
+        margin: 0;
+    }
+
+    .frame4 {
+        height: 850px;
+    }
+
+    .fix-image {
+        height: 850px;
+    }
+
+    .introbox1-image {
+        width: 78px;
+    }
+
+    .introbox1 {
+        font-size: 14px;
+    }
+
+    .introbox1 {
+        font-size: 13px;
+    }
+
+    .choose-plan h2 {
+        font-size: 40px;
+    }
+
+    .choose-plan p {
+        font-size: 14px;
+        width: 90vw;
+        margin: 20px auto 0 auto;
+    }
+
+    .frame5 {
+        height: 1830px;
+        margin-top: 20px;
+    }
+
+    .card1 {
+        margin: 30px auto 0 auto;
+        min-height: 503px;
+    }
+
+    .card-price1 img {
+        margin-top: 10px;
+    }
+
+    .vlaue1 {
+        margin: 0;
+    }
+
+    .doller1 {
+        margin: 5px 0;
+    }
+
+    .card-bottum1 {
+        line-height: 2.5;
+    }
+
+    .buy-button1 {
+        padding: 0.8em 3.5em;
+    }
+
+    .foot {
+        height: 410px;
+    }
+
+    .copyright-text {
+        width: 93%;
+        margin: auto;
+        text-align: center;
+        top: 120px;
+    }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 365px) {
+    .text {
+        width: 90vw;
+    }
+
+    .section2 {
+        grid-template-columns: auto;
+    }
+
+    .frame2 {
+        min-height: 790px;
+    }
+
+    .logo1,
+    .logo2,
+    .logo3 {
+        /* width: max(200px, 100px); */
+        width: 80%;
+        margin: auto;
+    }
+
+    .fram3-img {
+        width: 95%;
+        margin: auto;
+    }
+
+    .cinematic-image {
+        width: 300px;
+    }
+
+    .blackbox {
+        height: 1150px;
+    }
+
+    .cinematic-image {
+        width: 100%;
+    }
+
+    .fram3-about {
+        margin: auto;
+        width: 90%;
+    }
+
+    .introbox1-parah1 {
+        width: 75%;
+        margin: auto;
+    }
+
+    .fram3-heading {
+        font-size: 25px;
+    }
+
+    .name-foot a {
+        font-size: 25px;
+    }
+
+    .wrapper .icon {
+        margin: 5px;
+        width: 35px;
+        height: 35px;
+    }
+
+    .unorder li {
+        padding: 0px 10px;
+    }
+
+    .nav-head {
+        max-height: 102px;
+    }
+
+    .pad {
+        padding-right: 0 !important;
+    }
+
+}
+
+
+
+
+
+@media screen and (max-width: 280px) {
+
+    .frame2 {
+        min-height: 900px;
+    }
+
+    .title {
+        margin-bottom: 40px;
+    }
+
+    .title {
+        font-size: 10vw;
+    }
+
+    .summry {
+        font-size: 6vw;
+    }
+
+    .buttan a {
+        font-size: 12px;
+        padding: 7px 18px;
+    }
+
+    .buttan2 {
+        margin-left: 7px;
+    }
+
+    .text-container {
+        min-height: 620px;
+    }
+
+    .quote1 {
+        font-size: 10vw;
+    }
+
+    .logo1 p,
+    .logo2 p,
+    .logo3 p {
+        font-size: 13px;
+    }
+
+    .cinematic h2 {
+        font-size: 16vw;
+    }
+
+    .about-button a {
+        font-size: 6vw;
+    }
+
+    .about-button a {
+        padding: 2vw 7vw;
+    }
+
+    .cinematic-image {
+        height: 290px;
+    }
+
+    .blackbox {
+        height: 870px;
+    }
+
+    .fram3-heading {
+        font-size: 14vw;
+    }
+
+    .fram3-about h2 {
+        font-size: 10vw;
+    }
+
+    .fram3-about p {
+        font-size: 5.5vw;
+    }
+
+    .learn {
+        font-size: 9px;
+        padding: 10px 14px;
+    }
+
+    .frame4 {
+        height: 1200px;
+    }
+
+    .frame5 {
+        height: 1900px;
+    }
+
+    .card1 {
+        width: 82vw;
+    }
+
+    .doller1 {
+        font-size: 11vw;
+    }
+
+    .card-bottum1 {
+        font-size: 7vw;
+    }
+
+    .buy-button1 {
+        padding: 4vw 3vw;
+        font-size: 5.5vw;
+    }
+
+    .unorder-foot li {
+        padding: 0px 10vw;
+    }
+
+    .name-foot a {
+        font-size: 11vw;
+    }
+
+
+
+
+
+
+
+
+
+}
